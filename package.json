@@ -1,6 +1,6 @@
 {
   "name": "inferno-app-rewire-polyfills",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "rewire your inferno-app and use all babel-polyfill offers",
   "main": "index.js",
   "scripts": {
